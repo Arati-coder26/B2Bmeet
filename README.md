@@ -186,6 +186,11 @@ b2bmeet/
 
 ---
 
+🔗 Live Demo: https://b2b.innovatiocuris.com  
+*(Company deployment — access may be restricted or unavailable)*
+
+----
+
 ## 🤝 Contributing
 
 Contributions are welcome and appreciated.
